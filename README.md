@@ -1,1 +1,2 @@
-em construção
+em construção...
+Pagina modelo para um site de fotografia onde é possível ver imagens e ler sobre locais e momentos!
